@@ -45,7 +45,7 @@ You might also need CMake depending on which tool you use.
 
 ### Usage
 
-I recommend that you developr your project in [CLion](https://www.jetbrains.com/clion) as it is the best C++ IDE there is.
+I recommend that you developer your project in [CLion](https://www.jetbrains.com/clion) as it is the best C++ IDE there is.
 
 Alternatively, if you only develop on windows, you could use [Visual Studio](https://visualstudio.com) which is a close second.
 
